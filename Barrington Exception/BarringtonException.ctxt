@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=BarringtonException
+comment0.text=\n\ This\ BarringtonException\ class\ represents\ .\ .\ .\n\n\ @author\ \ (your\ name)\n\ @version\ (todays\ date)\n
+comment1.params=
+comment1.target=BarringtonException()
+comment2.params=message
+comment2.target=BarringtonException(java.lang.String)
+numComments=3
