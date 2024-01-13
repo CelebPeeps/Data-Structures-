@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Euclidean
+comment0.text=\n\ This\ class\ represents\ the\ Euclidean\ algoritm\ for\ calculating\n\ the\ Greatest\ Common\ Divisor\ of\ two\ integers,\ using\ both\ recursive\n\ and\ iterative\ solutions.\n\ \n\ @author\ \n\ @version\ \n
+comment1.params=m\ n
+comment1.target=int\ gcdRecursive(int,\ int)
+comment2.params=m\ n
+comment2.target=int\ gcdIterative(int,\ int)
+numComments=3
