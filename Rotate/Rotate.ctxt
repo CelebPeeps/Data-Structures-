@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Rotate
+comment0.text=\n\ This\ Rotate\ class\ represents\ .\ .\ .\n\n\ @Caleb\ Wang\ \ (your\ name)\n\ @8/23/23\ (todays\ date)\n
+comment1.params=given
+comment1.target=int[][]\ rotateArray(int[][])
+numComments=2
