@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=WordCountListInterface
+comment0.text=\n\ This\ interface\ represents\ the\ methods\ that\ must\ be\ implimented\n\ by\ WordCountList\ objects\n
+comment1.params=
+comment1.target=int\ size()
+comment2.params=word
+comment2.target=void\ add(java.lang.String)
+comment3.params=
+comment3.target=void\ rank()
+numComments=4
