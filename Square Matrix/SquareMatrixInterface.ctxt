@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=SquareMatrixInterface
+comment0.text=\n\ Write\ a\ description\ of\ interface\ SquareMatrixInterface\ here.\n\n\ @Caleb\ Wang\ (your\ name)\n\ @12/03/2023\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=int\ getSize()
+comment2.params=row\ column\ value
+comment2.target=void\ setValue(int,\ int,\ int)
+comment3.params=row\ column
+comment3.target=int\ getValue(int,\ int)
+comment4.params=value
+comment4.target=void\ fillValue(int)
+comment5.params=
+comment5.target=void\ makeZero()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment7.params=s
+comment7.target=SquareMatrix\ subtract(SquareMatrix)
+comment8.params=
+comment8.target=SquareMatrix\ copy()
+comment9.params=random
+comment9.target=SquareMatrix\ add(SquareMatrix)
+numComments=10
